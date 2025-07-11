@@ -1,7 +1,7 @@
-## ¡Hola! Soy Kevin Jamir Isnado
+## Hola! Soy Kevin Jamir Isnado
 
 🎓 Estudiante de **Ingeniería de Sistemas** en la Universidad Mayor de San Simón (UMSS) – Cochabamba, Bolivia 🇧🇴  
-🎮 Amante de los videojuegos & 🏀 del básquet  
+🎮 Amante de los videojuegos y del básquet 🏀
 
 ---
 
@@ -9,9 +9,9 @@
 
 - Actualmente aprendiendo desarrollo **web** y **aplicaciones móviles**
 - 🐍 Tengo bases en **Python** y ☕ **Java**
-- Me gusta aprender por mi cuenta y construir cosas desde cero
+- Me gusta aprender por mi cuenta y construir cosas desde cero.
 
-> 💬 *“El gran software comienza con pequeños pasos y grandes sueños.”*
+>  "Mi código no tiene bugs... solo características inesperadas."
 
 ---
 
@@ -29,11 +29,11 @@
 
 ---
 
-### 🎮 Rincón Retro
+### 🎮 Zona Retro
 
 ![Mario caminando](https://raw.githubusercontent.com/JamirIsnado/JamirIsnado/main/Z96o.gif)
 
-> 🕹️ *Programar es como jugar: subes de nivel una línea de código a la vez.*
+> *Programar es como jugar... subes de nivel una línea de código a la vez.*
 
 ---
 
