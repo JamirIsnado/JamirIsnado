@@ -1,7 +1,10 @@
 ## Hola! Soy Kevin Jamir Isnado
 
-🎓 Estudiante de **Ingeniería de Sistemas** en la Universidad Mayor de San Simón (UMSS) – Cochabamba, Bolivia 🇧🇴  
-🎮 Amante de los videojuegos y del básquet 🏀
+🎓 **Estudiante de Ingeniería de Sistemas**  
+Universidad Mayor de San Simón (UMSS) – Cochabamba, Bolivia 🇧🇴  
+
+🕹️ **Nivel actual:** 19 años  
+🎮 **Amante de los videojuegos y del básquet**🏀
 
 ---
 
@@ -15,7 +18,7 @@
 
 ---
 
-### 🧰 Tecnologías que uso
+### 🧰 Lenguajes
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,6 +44,7 @@
 
 Todavía no tengo redes activas.
 
+correo oficial: isnadojamir19@gmail.com
 ---
 
 ![Contador de visitas](https://komarev.com/ghpvc/?username=JamirIsnado&style=flat&color=blue)
