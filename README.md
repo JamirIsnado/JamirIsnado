@@ -1,16 +1,47 @@
-## Hi there 👋
+## ¡Hola! Soy Kevin Jamir Isnado
 
-<!--
-**JamirIsnado/JamirIsnado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Ingeniería de Sistemas** en la Universidad Mayor de San Simón (UMSS) – Cochabamba, Bolivia 🇧🇴  
+🎮 Amante de los videojuegos & 🏀 del básquet  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Sobre mí
+
+- Actualmente aprendiendo desarrollo **web** y **aplicaciones móviles**
+- 🐍 Tengo bases en **Python** y ☕ **Java**
+- Me gusta aprender por mi cuenta y construir cosas desde cero
+
+> 💬 *“El gran software comienza con pequeños pasos y grandes sueños.”*
+
+---
+
+### 🧰 Tecnologías que uso
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+### 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JamirIsnado&show_icons=true&theme=tokyonight&locale=es)
+
+---
+
+### 🎮 Rincón Retro
+
+![Retro Mario Animation](https://raw.githubusercontent.com/JamirIsnado/JamirIsnado/main/retro-mario.gif)
+
+> 🕹️ *Programar es como jugar: subes de nivel una línea de código a la vez.*
+
+---
+
+### 🌐 Contacto
+
+Todavía no tengo redes activas.
+
+---
+
+![Contador de visitas](https://komarev.com/ghpvc/?username=JamirIsnado&style=flat&color=blue)
+
