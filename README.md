@@ -31,7 +31,7 @@
 
 ### 🎮 Rincón Retro
 
-![Retro Mario Animation](https://raw.githubusercontent.com/JamirIsnado/JamirIsnado/main/retro-mario.gif)
+![Mario caminando](https://raw.githubusercontent.com/JamirIsnado/JamirIsnado/main/Z96o.gif)
 
 > 🕹️ *Programar es como jugar: subes de nivel una línea de código a la vez.*
 
